@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ScrollApp</string>
+    <string name="textview">
+
+
+        <b>What Is Coding</b>>\n
+Coding is a computer programming language that helps to communicate with a computer. Computers do not understand human languages. Coding allows humans to communicate with the computer. Code instructs the computer which tasks to be performed and what things to do. Learning code also helps develop applications, websites, and many other things that are ruling the world at present.\n
+
+These are a few things about coding. Now, have a look at programming in this "Coding Vs Programming" tutorial.\n
+
+<b>How Coding Works?</b>\n
+Coding is a process of establishing a successful communication between a software program and the computer hardware. The compilers translate the program into assembly language. The coding process converts the assembly language to Binary Coded Signals\n
+
+Computer systems are electronic devices that rely on binary coded signals for communication and functioning. The two types of binary coded signals are o’s and 1’s. These signals are generated using switches and transistors. In the process of coding the high-level language and the assembly level languages are translated into binary codes and the communication between the computer hardware and software application is established.\n
+
+Let us move into the next section and look into the definition of programming. Programming is a different and complex ball game altogether.\n
+
+        <b>What Is Programming?</b>b>\n
+Programming is passing the instructions and information to the computer that describes how a program should be carried out. Programming helps computers to perform certain actions. Various types of programming languages available in the market, like C, C++, Java, Python, etc., help develop new and creative technology.\n
+
+        <b>How Programming Works?</b>\n
+Programming is a complex task. Unlike coding, programming is carried out in Stages. Following are the stages of programming a software application.\n
+
+Problem Statement
+Designing Algorithms and Flowcharts
+Software Development
+Software Testing
+Software Documentation
+Software Maintenance
+
+        Computer programming or coding is the composition of sequences of instructions, called programs, that computers can follow to perform tasks.[1][2] It involves designing and implementing algorithms, step-by-step specifications of procedures, by writing code in one or more programming languages. Programmers typically use high-level programming languages that are more easily intelligible to humans than machine code, which is directly executed by the central processing unit. Proficient programming usually requires expertise in several different subjects, including knowledge of the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal logic.\n
+
+Auxiliary tasks accompanying and related to programming include analyzing requirements, testing, debugging (investigating and fixing problems), implementation of build systems, and management of derived artifacts, such as programs machine code. While these are sometimes considered programming, often the term software development is used for this larger overall process – with the terms programming, implementation, and coding reserved for the writing and editing of code per se. Sometimes software development is known as software engineering, especially when it employs formal methods or follows an engineering design process.\n
+
+        Programmable devices have existed for centuries. As early as the 9th century, a programmable music sequencer was invented by the Persian Banu Musa brothers, who described an automated mechanical flute player in the Book of Ingenious Devices.[3][4] In 1206, the Arab engineer Al-Jazari invented a programmable drum machine where a musical mechanical automaton could be made to play different rhythms and drum patterns, via pegs and cams.[5][6] In 1801, the Jacquard loom could produce entirely different weaves by changing the "program" – a series of pasteboard cards with holes punched in them.\n
+
+Code-breaking algorithms have also existed for centuries. In the 9th century, the Arab mathematician Al-Kindi described a cryptographic algorithm for deciphering encrypted code, in A Manuscript on Deciphering Cryptographic Messages. He gave the first description of cryptanalysis by frequency analysis, the earliest code-breaking algorithm.[7]\n
+
+The first computer program is generally dated to 1843 when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage\'s Analytical Engine.[8] The algorithm, which was conveyed through notes on a translation of Luigi Federico Menabrea\'s paper on the analytical engine was mainly conceived by Lovelace as can be discerned through her correspondence with Babbage. However, Charles Babbage himself had written a program for the AE in 1837.[9][10] Lovelace was also the first to see a broader application for the analytical engine beyond mathematical calculations.\n
+
+
+Data and instructions were once stored on external punched cards, which were kept in order and arranged in program decks.
+In the 1880s, Herman Hollerith invented the concept of storing data in machine-readable form.[11] Later a control panel (plug board) added to his 1906 Type I Tabulator allowed it to be programmed for different jobs, and by the late 1940s, unit record equipment such as the IBM 602 and IBM 604, were programmed by control panels in a similar way, as were the first electronic computers. However, with the concept of the stored-program computer introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.[12]
+
+    </string>
+</resources>
