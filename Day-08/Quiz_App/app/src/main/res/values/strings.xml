@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ch4practice</string>
+    <string name="todo">TODO</string>
+    <string name="no">No</string>
+    <string name="textview">TextView</string>
+    <string name="yes">Yes</string>
+</resources>
