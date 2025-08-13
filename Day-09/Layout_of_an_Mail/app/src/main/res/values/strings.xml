@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">listVeiw</string>
+    <string name="textview">textview</string>
+    <string name="todo">TODO</string>
+</resources>
